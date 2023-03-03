@@ -1,4 +1,0 @@
-N50  45415
-amount of contigs  1
-total length  45415
-longest contig  45415
