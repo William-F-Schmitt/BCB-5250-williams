@@ -1,0 +1,4 @@
+N50  132140
+amount of contigs  13
+total length  179663
+longest contig  132140
